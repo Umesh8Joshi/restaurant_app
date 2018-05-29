@@ -11,3 +11,5 @@
 <code>python database_setup.py</code></br>
 <code>python lotsofmenus.py</code></br>
 <code>python final.py</code>
+
+Log file will be generated with new class created as LogFile
